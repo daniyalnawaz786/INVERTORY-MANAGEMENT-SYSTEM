@@ -26,7 +26,12 @@ How to use it
              main.py
              inventory.py
              inventory.json 
-     
+     <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3bf172c6-74e1-4966-ab51-bdb1ff88a033" />
+     <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1fbb9400-86ad-47d0-9ba8-183d119692bc" />
+     <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f30e3491-814b-418c-87f1-f0570c2abcd0" />
+
+
+
 
 
 
