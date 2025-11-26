@@ -21,10 +21,16 @@ JSON data storage
 
 
 
-how to use it 
+How to use it 
+             python main.py
+             main.py
+             inventory.py
+             inventory.json 
+     
 
-python main.py
 
-main.py          
-inventory.py     
-inventory.json   
+
+
+
+
+  
